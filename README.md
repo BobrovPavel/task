@@ -14,7 +14,7 @@ $ pytest path/to/test
 ```
 or
 ```bash
-# pytest --browser=firefox path/to/test
+$ pytest --browser=firefox path/to/test
 ```
 ## Webdrivers
 
